@@ -1,0 +1,21 @@
+{
+    "name": "gotham",
+    "displayName": "Gotham",
+    "description": "",
+    "version": "0.0.1",
+    "engines": {
+        "vscode": "^1.55.0"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "Gotham",
+                "uiTheme": "vs-dark",
+                "path": "./themes/Gotham-color-theme.json"
+            }
+        ]
+    }
+}
