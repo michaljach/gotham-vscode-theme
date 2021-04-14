@@ -1,7 +1,6 @@
 {
   "name": "Gotham",
   "type": "dark",
-
   "colors": {
     "activityBar.activeBorder": "#000000",
     "activityBar.background": "#000000",
@@ -879,7 +878,7 @@
     {
       "scope": "string, constant.other.symbol, entity.other.inherited-class",
       "settings": {
-        "foreground": "#8A8A8A"
+        "foreground": "#FFFFFF"
       }
     },
     {
