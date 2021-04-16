@@ -50,7 +50,7 @@
     "editorGroupHeader.tabsBorder": "#0a0a0a",
     "editorHoverWidget.statusBarBackground": "#000000",
     "editorIndentGuide.activeBackground": "#3d3d3d",
-    "editorIndentGuide.background": "#141414",
+    "editorIndentGuide.background": "#000",
     "editorInfo.foreground": "#5c5c5c",
     "editorLightBulb.foreground": "#919191",
     "editorLineNumber.activeForeground": "#424242",
