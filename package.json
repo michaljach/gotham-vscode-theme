@@ -1,21 +1,26 @@
 {
-    "name": "gotham",
-    "displayName": "Gotham",
-    "description": "",
-    "version": "0.0.1",
-    "engines": {
-        "vscode": "^1.55.0"
-    },
-    "categories": [
-        "Themes"
-    ],
-    "contributes": {
-        "themes": [
-            {
-                "label": "Gotham",
-                "uiTheme": "vs-dark",
-                "path": "./themes/Gotham-color-theme.json"
-            }
-        ]
-    }
+  "name": "gotham",
+  "displayName": "Gotham",
+  "publisher": "MichalJach",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/michaljach/gotham-vscode-theme.git"
+  },
+  "description": "Dark, black&white, monochrome Color Theme.",
+  "version": "0.0.2",
+  "engines": {
+    "vscode": "^1.55.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "Gotham",
+        "uiTheme": "vs-dark",
+        "path": "./themes/Gotham-color-theme.json"
+      }
+    ]
+  }
 }
