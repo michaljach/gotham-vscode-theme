@@ -7,7 +7,7 @@
     "url": "https://github.com/michaljach/gotham-vscode-theme.git"
   },
   "description": "Dark, black, grey, white, monochrome VSCode Color Theme.",
-  "version": "0.0.3",
+  "version": "0.0.4",
   "icon": "icon.png",
   "engines": {
     "vscode": "^1.55.0"
