@@ -40,7 +40,7 @@
     "editor.foreground": "#b3b3b3",
     "editor.hoverHighlightBackground": "#111222",
     "editor.lineHighlightBackground": "#111",
-    "editor.selectionBackground": "#111",
+    "editor.selectionBackground": "#333",
     "editorBracketMatch.background": "#000000",
     "editorBracketMatch.border": "#3d3d3d",
     "editorCursor.foreground": "#b3b3b3",
